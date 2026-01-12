@@ -1,1 +1,1 @@
-<title> Welcome to our Bella Project </title>
+<h1> Welcome to our Bella Project </h1>
