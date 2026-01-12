@@ -7,7 +7,7 @@ Dit is de start van het project. De originele bestanden van Pettoi vind je in de
 De Pettoi bittle kan je op volgennde link aankopen:<br>
 https://www.petoi.com/?utm_source=uppromote&sca_ref=9593786.0ProqpDMar&gad_source=1&gad_campaignid=23440751747&gbraid=0AAAABChNa1aj2IwxIMa9urKI3wDnrZ_jq&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7iVuyFbuRUtYJjIxKYxmNdg77i42D83rtlDPfBs_Unpzkl4gbek_CcaAn8iEALw_wcB</p>
 <br>
-![](Bittle_robot.jpg)
+![Bittle_robot](https://github.com/user-attachments/assets/9a4d95c4-5c3c-4835-8cc0-e80576bae159)
 <p>Het idee van bella is "Meer hond, minder robot."
 
 </p>
