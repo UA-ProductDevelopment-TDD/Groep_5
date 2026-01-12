@@ -1,1 +1,1 @@
-Welcome to our Bella Project
+<title> Welcome to our Bella Project </title>
