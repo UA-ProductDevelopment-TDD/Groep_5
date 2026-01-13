@@ -13,3 +13,11 @@ https://www.petoi.com/?utm_source=uppromote&sca_ref=9593786.0ProqpDMar&gad_sourc
 <p>Het idee van bella is "Meer hond, minder robot."
 
 </p>
+<h2>Nieuwe functionaliteit</h2>
+<ul>
+<li>Bella haar hoofd kan roteren</li>
+<li>Haar mond kan open en dicht</li>
+<li>Haar staart kan kwispelen</li>
+<li>Bella kan meewandelen door input via de leiband</li>
+<li>Bella heeft een zachte vacht</li>
+</ul>
